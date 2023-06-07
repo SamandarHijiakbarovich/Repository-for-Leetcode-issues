@@ -24,7 +24,8 @@ namespace Leetcode_Masala
                 Console.ReadLine();
             }*/
 
-            int n = int.Parse(Console.ReadLine());
+            // bu ham leetcode platformasidan masala
+ /*           int n = int.Parse(Console.ReadLine());
             int[] arr = new int[n];
             Random rand = new Random();
             for(int i=0;i<n;i++)
@@ -49,11 +50,17 @@ namespace Leetcode_Masala
             for(int i=0;i<ar.Length;i++)
             {
                 Console.Write(ar[i]);
-            }
+            }*/
 
-            
 
+            //69-masala letcodedan
+/*
+            int n = int.Parse(Console.ReadLine());
+
+            Console.WriteLine((int)Math.Sqrt(n));
            
+*/
+
 
         }
     }
