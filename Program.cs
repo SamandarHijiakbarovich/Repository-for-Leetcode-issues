@@ -25,42 +25,51 @@ namespace Leetcode_Masala
             }*/
 
             // bu ham leetcode platformasidan masala
- /*           int n = int.Parse(Console.ReadLine());
-            int[] arr = new int[n];
-            Random rand = new Random();
-            for(int i=0;i<n;i++)
-            {
-                arr[i] = rand.Next(0, 9);
-                Console.Write(arr[i]);
-            }
-            Console.WriteLine();
+            /*           int n = int.Parse(Console.ReadLine());
+                       int[] arr = new int[n];
+                       Random rand = new Random();
+                       for(int i=0;i<n;i++)
+                       {
+                           arr[i] = rand.Next(0, 9);
+                           Console.Write(arr[i]);
+                       }
+                       Console.WriteLine();
 
-            int[] ar = new int[arr.Length];
-            
-            for(int i=0;i<n;i++)
-            {
-                ar[i] += arr[i];
+                       int[] ar = new int[arr.Length];
 
-                Console.Write(ar[i]);
-                
-            }
-            Console.WriteLine();
+                       for(int i=0;i<n;i++)
+                       {
+                           ar[i] += arr[i];
 
-            ar[n - 1] = ar[n - 1] + 1;
-            for(int i=0;i<ar.Length;i++)
-            {
-                Console.Write(ar[i]);
-            }*/
+                           Console.Write(ar[i]);
+
+                       }
+                       Console.WriteLine();
+
+                       ar[n - 1] = ar[n - 1] + 1;
+                       for(int i=0;i<ar.Length;i++)
+                       {
+                           Console.Write(ar[i]);
+                       }*/
 
 
             //69-masala letcodedan
-/*
+            /*
+                        int n = int.Parse(Console.ReadLine());
+
+                        Console.WriteLine((int)Math.Sqrt(n));
+
+            */
+
+
+            //50-masala
+
+          /*  double x = double.Parse(Console.ReadLine());
             int n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine((int)Math.Sqrt(n));
-           
+            double y = Math.Pow(x, n);
+            Console.WriteLine(y);
 */
-
 
         }
     }
