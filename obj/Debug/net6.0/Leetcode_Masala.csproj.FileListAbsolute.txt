@@ -1,0 +1,15 @@
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\bin\Debug\net6.0\Leetcode_Masala.exe
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\bin\Debug\net6.0\Leetcode_Masala.deps.json
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\bin\Debug\net6.0\Leetcode_Masala.runtimeconfig.json
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\bin\Debug\net6.0\Leetcode_Masala.dll
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\bin\Debug\net6.0\Leetcode_Masala.pdb
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\Leetcode_Masala.csproj.AssemblyReference.cache
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\Leetcode_Masala.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\Leetcode_Masala.AssemblyInfoInputs.cache
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\Leetcode_Masala.AssemblyInfo.cs
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\Leetcode_Masala.csproj.CoreCompileInputs.cache
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\Leetcode_Masala.dll
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\refint\Leetcode_Masala.dll
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\Leetcode_Masala.pdb
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\Leetcode_Masala.genruntimeconfig.cache
+D:\Leetcode\Leetcode_Masala\Leetcode_Masala\obj\Debug\net6.0\ref\Leetcode_Masala.dll
