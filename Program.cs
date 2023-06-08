@@ -97,19 +97,40 @@ namespace Leetcode_Masala
               }*/
 
             //2469. Convert the Temperature
-          /*  public class Solution
+            /*  public class Solution
+          {
+              public double[] ConvertTemperature(double celsius)
+              {
+
+                  double[] arr = new double[2];
+
+                  double kelvin = celsius + 273.15;
+                  double fahrenheit = celsius * 1.80 + 32.00;
+                  arr[0] += kelvin;
+                  arr[1] += fahrenheit;
+
+                  return arr;
+              }
+          }*/
+
+
+
+
+            //2652 . Ko'paytmalar yig'indisi
+/*
+            public class Solution
         {
-            public double[] ConvertTemperature(double celsius)
+            public int SumOfMultiples(int n)
             {
-
-                double[] arr = new double[2];
-
-                double kelvin = celsius + 273.15;
-                double fahrenheit = celsius * 1.80 + 32.00;
-                arr[0] += kelvin;
-                arr[1] += fahrenheit;
-
-                return arr;
+                int sum = 0;
+                for (int i = 1; i <= n; i++)
+                {
+                    if ((i % 3 == 0) || (i % 5 == 0) || (i % 7 == 0))
+                    {
+                        sum += i;
+                    }
+                }
+                return sum;
             }
         }*/
 
