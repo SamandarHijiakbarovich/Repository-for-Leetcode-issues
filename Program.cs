@@ -64,14 +64,37 @@ namespace Leetcode_Masala
 
             //50-masala
 
-          /*  double x = double.Parse(Console.ReadLine());
-            int n = int.Parse(Console.ReadLine());
+            /*  double x = double.Parse(Console.ReadLine());
+              int n = int.Parse(Console.ReadLine());
 
-            double y = Math.Pow(x, n);
-            Console.WriteLine(y);
-*/
+              double y = Math.Pow(x, n);
+              Console.WriteLine(y);
+  */
 
 
+          /*  int n;
+            int.TryParse(Console.ReadLine(), out n);
+            int[] arr = new int[n];
+            Random r = new Random();
+            for (int i = 0; i < n; i++)
+            {
+                arr[i] = r.Next();
+                Console.Write(arr[i]);
+            }
+            Console.WriteLine(RunningSum(arr));
+
+
+            int[] RunningSum(int[] nums)
+            {
+                int[] arr = new int[nums.Length];
+                int sum = 0;
+                for (int i = 0; i < nums.Length; i++)
+                {
+                    sum += nums[i];
+                    arr[i] += sum;
+                }
+                return arr;
+            }*/
 
 
         }
