@@ -72,31 +72,48 @@ namespace Leetcode_Masala
   */
 
 
-          /*  int n;
-            int.TryParse(Console.ReadLine(), out n);
-            int[] arr = new int[n];
-            Random r = new Random();
-            for (int i = 0; i < n; i++)
-            {
-                arr[i] = r.Next();
-                Console.Write(arr[i]);
-            }
-            Console.WriteLine(RunningSum(arr));
+            /*  int n;
+              int.TryParse(Console.ReadLine(), out n);
+              int[] arr = new int[n];
+              Random r = new Random();
+              for (int i = 0; i < n; i++)
+              {
+                  arr[i] = r.Next();
+                  Console.Write(arr[i]);
+              }
+              Console.WriteLine(RunningSum(arr));
 
 
-            int[] RunningSum(int[] nums)
+              int[] RunningSum(int[] nums)
+              {
+                  int[] arr = new int[nums.Length];
+                  int sum = 0;
+                  for (int i = 0; i < nums.Length; i++)
+                  {
+                      sum += nums[i];
+                      arr[i] += sum;
+                  }
+                  return arr;
+              }*/
+
+            //2469. Convert the Temperature
+          /*  public class Solution
+        {
+            public double[] ConvertTemperature(double celsius)
             {
-                int[] arr = new int[nums.Length];
-                int sum = 0;
-                for (int i = 0; i < nums.Length; i++)
-                {
-                    sum += nums[i];
-                    arr[i] += sum;
-                }
+
+                double[] arr = new double[2];
+
+                double kelvin = celsius + 273.15;
+                double fahrenheit = celsius * 1.80 + 32.00;
+                arr[0] += kelvin;
+                arr[1] += fahrenheit;
+
                 return arr;
-            }*/
+            }
+        }*/
 
 
-        }
+    }
     }
 }
